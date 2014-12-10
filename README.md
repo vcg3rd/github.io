@@ -1,3 +1,0 @@
-I am not a coder, developer, engineer, or programmer.  I like computers, hacking (in the broad sense of learning how things work, like one might see written about in 2600 Magazine) and discovery, so I am--though I hate to use the term--a bit of a groupie.
-
-The repository is a just a place for me to play with Git in a non-development way, though I do sometime clone a git for use, like [Command Line Mystery](https://github.com/veltman/clmystery.git "Command Line Mystery").
